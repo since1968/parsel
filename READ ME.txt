@@ -1,5 +1,13 @@
 This project is hosted at http://code.google.com/p/parsel/
 
+IMPORTANT UPDATE: 08/22/06
+
+This code was originally written for Mint pre-1.2 and is in the midst of 
+being ported to the current version of Mint. IT DOES NOT WORK IN ANY VERSION
+OF MINT RIGHT NOW. Please do not install it. Thank you.
+
+===========================================================================
+
 INSTALL PARSEL AT YOUR OWN RISK.
 
 ===========================================================================

@@ -1,0 +1,65 @@
+This project is hosted at http://code.google.com/p/parsel/
+
+INSTALL PARSEL AT YOUR OWN RISK.
+
+===========================================================================
+Installing Parsel from scratch
+---------------------------------------------------------------------------
+If you've never installed Parsel before, follow these instructions:
+
+1. Upload the /parsel/ directory and its contents to 
+/mint/pepper/since1968/. If the directory /since1968/ doesn't exist, create it.
+
+2. Login to your Mint installation and in the Preferences click "Install" under
+Pepper.
+
+3. Click the Parsel "Install" button. Click "Okay."
+
+===========================================================================
+Updating Parsel from v003 or Later
+---------------------------------------------------------------------------
+
+The safest way to update Parsel is to completely uninstall your older version,
+and then reinstall the newer version. But if you'd like to try updating without
+losing your old stats, follow these instructions.
+
+1. Backup your old version of parsel by downloading the files in the /parsel
+directory.
+
+2. Upload the folder /parsel/ to your /mint/pepper/since1968/ directory. 
+Allow your FTP client to replace any existing files.
+
+3. Refresh Mint by reloading your Mint home page.
+
+4. If you have the languages.php file left over from an earlier version, you
+can safely delete it.
+
+===========================================================================
+Updating Parsel from v001 or v002
+---------------------------------------------------------------------------
+
+If you're updating Parsel from v001 or v002, follow these instructions:
+
+1. THIS STEP IS IMPORTANT: From the Mint Preferences page, uninstall Parsel.
+
+2. Delete the folder /parsel/ in /mint/pepper/since1968/.
+
+3. Follow the instructions for "Installing Parsel from Scratch" at the top 
+of this page.
+
+Please email marc@since1968.com with suggestions for improvement or feature 
+requests. 
+
+More info at: http://since1968.com/
+
+This work is licensed under the Creative Commons Attribution-ShareAlike License.
+To view a copy of this license, visit 
+
+	http://creativecommons.org/licenses/by-sa/2.5/ 
+	
+or send a letter to: 
+	
+	Creative Commons
+	543 Howard Street, 5th Floor
+	San Francisco, CA 94105
+	USA

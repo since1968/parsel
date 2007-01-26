@@ -1,11 +1,5 @@
 This project is hosted at http://code.google.com/p/parsel/
 
-IMPORTANT UPDATE: 08/22/06
-
-This code was originally written for Mint pre-1.2 and is in the midst of 
-being ported to the current version of Mint. IT DOES NOT WORK IN ANY VERSION
-OF MINT RIGHT NOW. Please do not install it. Thank you.
-
 ===========================================================================
 
 INSTALL PARSEL AT YOUR OWN RISK.
@@ -21,42 +15,23 @@ If you've never installed Parsel before, follow these instructions:
 2. Login to your Mint installation and in the Preferences click "Install" under
 Pepper.
 
-3. Click the Parsel "Install" button. Click "Okay."
+3. Click the Parsel "Install" button. Click "Okay." Please note: Parsel
+requires Mint 1.29 or higher. If you're using an older version of Mint
+you should receive a friendly error message, and you will not be able to 
+install Parsel.
 
 ===========================================================================
-Updating Parsel from v003 or Later
+If you've used older versions (v003-v090)
 ---------------------------------------------------------------------------
 
-The safest way to update Parsel is to completely uninstall your older version,
-and then reinstall the newer version. But if you'd like to try updating without
-losing your old stats, follow these instructions.
-
-1. Backup your old version of parsel by downloading the files in the /parsel
-directory.
-
-2. Upload the folder /parsel/ to your /mint/pepper/since1968/ directory. 
-Allow your FTP client to replace any existing files.
-
-3. Refresh Mint by reloading your Mint home page.
-
-4. If you have the languages.php file left over from an earlier version, you
-can safely delete it.
+If you used Parsel prior to Mint 1.2, you should uninstall Parsel BEFORE
+upgrading to Mint 1.2. There is no upgrade path from older versions of Parsel
+to Parsel 1.0.
 
 ===========================================================================
-Updating Parsel from v001 or v002
----------------------------------------------------------------------------
-
-If you're updating Parsel from v001 or v002, follow these instructions:
-
-1. THIS STEP IS IMPORTANT: From the Mint Preferences page, uninstall Parsel.
-
-2. Delete the folder /parsel/ in /mint/pepper/since1968/.
-
-3. Follow the instructions for "Installing Parsel from Scratch" at the top 
-of this page.
-
 Please email marc@since1968.com with suggestions for improvement or feature 
-requests. 
+requests. If you'd like to have commit privileges on the google code site,
+let me know.
 
 More info at: http://since1968.com/
 

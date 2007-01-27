@@ -36,13 +36,19 @@ upgrading to Mint 1.2. There is no upgrade path from older versions of Parsel
 to Parsel 1.0.
 
 ===========================================================================
-Please email marc@since1968.com with suggestions for improvement or feature 
-requests. If you'd like to have commit privileges on the google code site,
-let me know.
+Problems with Parsel?
+---------------------------------------------------------------------------
+I you have suggestions for improvement, feature requests, or encounter a
+bug, please file a ticket on google code:
+
+http://code.google.com/p/parsel/issues/list
+
+If you'd like to have commit privileges on the google code site, email me
+at marc@since1968.com.
 
 More info at: http://since1968.com/
 
-Copyright (c) 2005 Marc A. Garrett
+Copyright (c) 2005-2007 Marc A. Garrett
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

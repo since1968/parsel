@@ -1,0 +1,68 @@
+This project is hosted at http://code.google.com/p/parsel/
+
+===========================================================================
+
+INSTALL PARSEL AT YOUR OWN RISK.
+
+===========================================================================
+Installing Parsel from scratch
+---------------------------------------------------------------------------
+If you've never installed Parsel before, follow these instructions:
+
+1. Upload the /parsel/ directory and its contents to 
+/mint/pepper/since1968/. If the directory /since1968/ doesn't exist, create it.
+
+2. Login to your Mint installation and in the Preferences click "Install" under
+Pepper.
+
+3. Click the Parsel "Install" button. Click "Okay." Please note: Parsel
+requires Mint 1.29 or higher. If you're using an older version of Mint
+you should receive a friendly error message, and you will not be able to 
+install Parsel.
+
+===========================================================================
+If you're upgrading Parsel from v091 and higher
+---------------------------------------------------------------------------
+
+If you're already using Parsel 0.9.1 and higher there's no need to
+uninstall before upgrading. Simply upload the new class.php file.
+
+===========================================================================
+If you've used older versions (v003-v090)
+---------------------------------------------------------------------------
+
+If you used Parsel prior to Mint 1.2, you should uninstall Parsel BEFORE
+upgrading to Mint 1.2. There is no upgrade path from older versions of Parsel
+to Parsel 1.0.
+
+===========================================================================
+Problems with Parsel?
+---------------------------------------------------------------------------
+I you have suggestions for improvement, feature requests, or encounter a
+bug, please file a ticket on google code:
+
+http://code.google.com/p/parsel/issues/list
+
+If you'd like to have commit privileges on the google code site, email me
+at marc@since1968.com.
+
+More info at: http://since1968.com/
+
+Copyright (c) 2005-2007 Marc A. Garrett
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

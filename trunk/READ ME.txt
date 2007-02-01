@@ -12,11 +12,10 @@ If you've never installed Parsel before, follow these instructions:
 1. Upload the /parsel/ directory and its contents to 
 /mint/pepper/since1968/. If the directory /since1968/ doesn't exist, create it.
 
-2. Login to your Mint installation and in the Preferences click "Install" under
-Pepper.
+2. Login to your Mint installation and in the Preferences click "Install" under Pepper.
 
 3. Click the Parsel "Install" button. Click "Okay." Please note: Parsel
-requires Mint 1.29 or higher. If you're using an older version of Mint
+requires Mint 2 or higher. If you're using an older version of Mint
 you should receive a friendly error message, and you will not be able to 
 install Parsel.
 
@@ -32,8 +31,17 @@ If you've used older versions (v003-v090)
 ---------------------------------------------------------------------------
 
 If you used Parsel prior to Mint 1.2, you should uninstall Parsel BEFORE
-upgrading to Mint 1.2. There is no upgrade path from older versions of Parsel
-to Parsel 1.0.
+upgrading to Mint 2. There is no upgrade path from older versions of Parsel
+to Parsel 1.0+.
+
+===========================================================================
+If you don't plan to upgrade to Mint 2 (why not?)
+---------------------------------------------------------------------------
+
+If you're still using Mint 1.2+ and want to install Parsel, I've kept a
+branch on google code just for you:
+
+http://parsel.googlecode.com/svn/branches/Mint-1.29-compatible-branch/
 
 ===========================================================================
 Problems with Parsel?
